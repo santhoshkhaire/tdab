@@ -56,6 +56,8 @@ UART_HandleTypeDef huart2;
 
 /* USER CODE BEGIN PV */
 
+// Added test line to test github
+
 int count = 0;
 // ADC Global Variables
 float scale_factor_150V = 2.4936335;		// set the scale factor after testing with 150 V
